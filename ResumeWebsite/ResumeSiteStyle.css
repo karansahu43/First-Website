@@ -1,0 +1,17 @@
+
+/* Project Page style   */
+h5.project {
+    color:blue;
+}
+p.project {
+    color:#339966;
+}
+
+
+/*  Skills Page style */
+h4.skills {
+    color:yellow;
+}
+p.skills {
+    color:orange;
+}
