@@ -1,4 +1,8 @@
-
+/* Front page   */
+div.front {
+    background-color:black;
+    color:white;
+}
 /* Project Page style   */
 h5.project {
     color:blue;
