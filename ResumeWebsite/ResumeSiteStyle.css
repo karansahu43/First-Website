@@ -3,6 +3,12 @@ div.front {
     background-color:black;
     color:white;
 }
+
+/* about me */
+div.aboutMe {
+    background-color:rgb(108, 108, 138);
+    color:white;
+}
 /* Project Page style   */
 h5.project {
     color:blue;
