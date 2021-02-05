@@ -9,6 +9,8 @@ div.aboutMe {
     background-color:rgb(108, 108, 138);
     color:white;
 }
+
+
 /* Project Page style   */
 h5.project {
     color:blue;
@@ -16,6 +18,26 @@ h5.project {
 p.project {
     color:#339966;
 }
+
+/* Education Page style   */
+h2.education{
+    color:white;
+}
+h4.education{
+    color:white;
+}
+h5.education {
+    color:white;
+}
+h6.education{
+    color:white;
+}
+p.education {
+    color:white;
+}
+
+
+
 
 
 /*  Skills Page style */
