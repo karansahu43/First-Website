@@ -37,13 +37,16 @@ p.education {
 }
 
 
-
-
-
 /*  Skills Page style */
 h4.skills {
     color:yellow;
 }
 p.skills {
     color:orange;
+}
+
+/*Contact Page style */
+div.contact {
+    background-color: teal;
+    color:white;
 }
