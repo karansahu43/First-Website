@@ -12,6 +12,10 @@ div.aboutMe {
 
 
 /* Project Page style   */
+div.project {
+    background-color:pink;
+    color:black;
+}
 h5.project {
     color:blue;
 }
